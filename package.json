@@ -2,12 +2,13 @@
   "name": "smilecraft-dental-clinic",
   "version": "1.0.0",
   "private": true,
+  
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
+    "start": "next start"
+  }
+,
   "dependencies": {
     "@gsap/react": "^2.1.2",
     "gsap": "^3.13.0",
